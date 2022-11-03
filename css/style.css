@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
@@ -1048,4 +1048,8 @@ h4 {
 
 .black{
     color:black
+}
+
+footer ul li a {
+    line-height:3rem;
 }
