@@ -1045,3 +1045,9 @@ h4 {
 footer ul li a {
     line-height:3rem;
 }
+.flex-column{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
