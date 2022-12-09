@@ -1040,7 +1040,7 @@ h4 {
     margin:auto;
 }
 .black{
-    color:black
+    color:black!important
 }
 footer ul li a {
     line-height:3rem;
